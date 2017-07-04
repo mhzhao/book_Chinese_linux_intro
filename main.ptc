@@ -1,0 +1,101 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {english}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Preface}{5}{chapter.1}
+\ttl@starttoc {default@1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}动机}{5}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}再一点说明}{7}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Linux {{\FA \char "F17C\relax }}}{9}{chapter.2}
+\ttl@stoptoc {default@1}
+\ttl@starttoc {default@2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Linux版本选择}{9}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.1}Linux Mint}{10}{subsection.2.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1.2}openSUSE}{10}{subsection.2.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}生产力工具}{11}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}Vim文本编辑器}{11}{subsection.2.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}Emacs文本编辑器}{13}{subsection.2.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.3}oh my zsh}{14}{subsection.2.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.4}\LaTeX }{14}{subsection.2.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.5}Video、Audio、Picture多媒体编辑}{15}{subsection.2.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Desktop录制工具}{15}{section*.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Video播放及编辑工具}{15}{section*.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Audio播放及编辑}{16}{section*.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Picture编辑}{16}{section*.15}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.6}Office办公}{16}{subsection.2.2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}其它常用工具}{17}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.1}Math数学工具}{17}{subsection.2.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Gnuplot画图软件}{17}{section*.16}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{SageMath数学软件系统}{17}{section*.17}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Maxima数学符号计算}{17}{section*.18}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{R统计计算}{17}{section*.19}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Octave和Scilab数值计算}{18}{section*.20}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{GeoGebra图形软件}{18}{section*.21}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\LaTeX 和Lurch数学文档处理}{18}{section*.22}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.2}Program编程工具}{18}{subsection.2.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Mac {{\FA \char "F179\relax }}}{19}{chapter.3}
+\ttl@stoptoc {default@2}
+\ttl@starttoc {default@3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}系统设置}{19}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.1}BetterTouchTool}{19}{subsection.3.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.2}Homebrew}{20}{subsection.3.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}生产力工具}{21}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.1}TextWrangler}{21}{subsection.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.2}NeoOffice}{21}{subsection.3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.3}其它工具推荐}{21}{subsection.3.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Windows {{\FA \char "F17A\relax }}}{23}{chapter.4}
+\ttl@stoptoc {default@3}
+\ttl@starttoc {default@4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}系统设置}{23}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}生产力工具}{23}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.1}Evernote}{23}{subsection.4.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.2}OneDrive}{23}{subsection.4.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}更多软件推荐}{23}{section.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}开源软件查找网站}{24}{section.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5}后记}{24}{section.4.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\leavevmode {\color {ocre}Index}}{25}{section*.27}
+\contentsfinish 

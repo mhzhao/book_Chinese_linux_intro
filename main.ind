@@ -1,0 +1,151 @@
+\begin{theindex}
+\vspace*{0.5cm}\nopagebreak
+\tikz\node at (0pt,0pt) [rounded corners=5pt,draw=ocre,fill=ocre!10,line width=1pt,inner sep=5pt]{\parbox{\linewidth-2\fboxsep-2\fboxrule-2pt}{\centering\large\sffamily\bfseries\textcolor{black}{Symbols}}};\vspace*{0.2cm}\nopagebreak
+
+  \item \LaTeX\dotfill \hyperpage{14}
+
+  \indexspace
+\vspace*{0.5cm}\nopagebreak
+\tikz\node at (0pt,0pt) [rounded corners=5pt,draw=ocre,fill=ocre!10,line width=1pt,inner sep=5pt]{\parbox{\linewidth-2\fboxsep-2\fboxrule-2pt}{\centering\large\sffamily\bfseries\textcolor{black}{A}}};\vspace*{0.2cm}\nopagebreak
+
+  \item ag.vim\dotfill \hyperpage{11}
+  \item Announcement\dotfill \hyperpage{7}
+
+  \indexspace
+\vspace*{0.5cm}\nopagebreak
+\tikz\node at (0pt,0pt) [rounded corners=5pt,draw=ocre,fill=ocre!10,line width=1pt,inner sep=5pt]{\parbox{\linewidth-2\fboxsep-2\fboxrule-2pt}{\centering\large\sffamily\bfseries\textcolor{black}{B}}};\vspace*{0.2cm}\nopagebreak
+
+  \item BetterTouchTool\dotfill \hyperpage{19}
+
+  \indexspace
+\vspace*{0.5cm}\nopagebreak
+\tikz\node at (0pt,0pt) [rounded corners=5pt,draw=ocre,fill=ocre!10,line width=1pt,inner sep=5pt]{\parbox{\linewidth-2\fboxsep-2\fboxrule-2pt}{\centering\large\sffamily\bfseries\textcolor{black}{D}}};\vspace*{0.2cm}\nopagebreak
+
+  \item Distributions of Linux\dotfill \hyperpage{9}
+
+  \indexspace
+\vspace*{0.5cm}\nopagebreak
+\tikz\node at (0pt,0pt) [rounded corners=5pt,draw=ocre,fill=ocre!10,line width=1pt,inner sep=5pt]{\parbox{\linewidth-2\fboxsep-2\fboxrule-2pt}{\centering\large\sffamily\bfseries\textcolor{black}{E}}};\vspace*{0.2cm}\nopagebreak
+
+  \item Emacs\dotfill \hyperpage{13}
+  \item Evernote\dotfill \hyperpage{23}
+
+  \indexspace
+\vspace*{0.5cm}\nopagebreak
+\tikz\node at (0pt,0pt) [rounded corners=5pt,draw=ocre,fill=ocre!10,line width=1pt,inner sep=5pt]{\parbox{\linewidth-2\fboxsep-2\fboxrule-2pt}{\centering\large\sffamily\bfseries\textcolor{black}{H}}};\vspace*{0.2cm}\nopagebreak
+
+  \item Homebrew\dotfill \hyperpage{20}
+
+  \indexspace
+\vspace*{0.5cm}\nopagebreak
+\tikz\node at (0pt,0pt) [rounded corners=5pt,draw=ocre,fill=ocre!10,line width=1pt,inner sep=5pt]{\parbox{\linewidth-2\fboxsep-2\fboxrule-2pt}{\centering\large\sffamily\bfseries\textcolor{black}{L}}};\vspace*{0.2cm}\nopagebreak
+
+  \item Linux\dotfill \hyperpage{9}
+  \item Linux \LaTeX\dotfill \hyperpage{14}
+  \item Linux \LaTeX 和Lurch数学文档处理软件\dotfill 
+		\hyperpage{18}
+  \item Linux emacs\dotfill \hyperpage{13}
+  \item Linux GeoGebra数学图形软件\dotfill \hyperpage{18}
+  \item Linux gnuplot画图\dotfill \hyperpage{17}
+  \item Linux Maxima数学软件\dotfill \hyperpage{17}
+  \item Linux Mint\dotfill \hyperpage{10}
+  \item Linux Octave和Scilab数学软件\dotfill \hyperpage{18}
+  \item Linux oh-my-zsh\dotfill \hyperpage{14}
+  \item Linux openSUSE\dotfill \hyperpage{10}
+  \item Linux Prezto\dotfill \hyperpage{14}
+  \item Linux R数学统计软件\dotfill \hyperpage{17}
+  \item Linux SageMath数学软件\dotfill \hyperpage{17}
+  \item Linux Vim\dotfill \hyperpage{11}
+  \item Linux其它工具\dotfill \hyperpage{17}
+  \item Linux办公软件\dotfill \hyperpage{16}
+  \item Linux图片编辑\dotfill \hyperpage{16}
+  \item Linux多媒体编辑\dotfill \hyperpage{15}
+  \item Linux数学工具\dotfill \hyperpage{17}
+  \item Linux更多软件推荐\dotfill \hyperpage{23}
+  \item Linux桌面录制工具\dotfill \hyperpage{15}
+  \item Linux版本选择\dotfill \hyperpage{9}
+  \item Linux生产力工具\dotfill \hyperpage{11}
+  \item Linux编程工具\dotfill \hyperpage{18}
+  \item Linux视频播放及编辑工具\dotfill \hyperpage{15}
+  \item Linux音频播放及编辑\dotfill \hyperpage{16}
+
+  \indexspace
+\vspace*{0.5cm}\nopagebreak
+\tikz\node at (0pt,0pt) [rounded corners=5pt,draw=ocre,fill=ocre!10,line width=1pt,inner sep=5pt]{\parbox{\linewidth-2\fboxsep-2\fboxrule-2pt}{\centering\large\sffamily\bfseries\textcolor{black}{M}}};\vspace*{0.2cm}\nopagebreak
+
+  \item Mac\dotfill \hyperpage{19}
+  \item Mac BetterTouchTool\dotfill \hyperpage{19}
+  \item Mac Homebrew\dotfill \hyperpage{20}
+  \item Mac TextWrangler\dotfill \hyperpage{21}
+  \item Mac 系统设置\dotfill \hyperpage{19}
+  \item Mac其它工具推荐\dotfill \hyperpage{21}
+  \item Mac快捷键推荐\dotfill \hyperpage{20}
+  \item Mac我的免费软件列表\dotfill \hyperpage{21}
+  \item Mac更多软件推荐\dotfill \hyperpage{23}
+  \item Mint\dotfill \hyperpage{10}
+  \item Motivation\dotfill \hyperpage{5}
+  \item Multiple-Cursors\dotfill \hyperpage{11}
+
+  \indexspace
+\vspace*{0.5cm}\nopagebreak
+\tikz\node at (0pt,0pt) [rounded corners=5pt,draw=ocre,fill=ocre!10,line width=1pt,inner sep=5pt]{\parbox{\linewidth-2\fboxsep-2\fboxrule-2pt}{\centering\large\sffamily\bfseries\textcolor{black}{O}}};\vspace*{0.2cm}\nopagebreak
+
+  \item oh my zsh\dotfill \hyperpage{14}
+  \item OneDrive\dotfill \hyperpage{23}
+  \item Open Source开源软件查找网站\dotfill \hyperpage{24}
+  \item openSUSE\dotfill \hyperpage{10}
+
+  \indexspace
+\vspace*{0.5cm}\nopagebreak
+\tikz\node at (0pt,0pt) [rounded corners=5pt,draw=ocre,fill=ocre!10,line width=1pt,inner sep=5pt]{\parbox{\linewidth-2\fboxsep-2\fboxrule-2pt}{\centering\large\sffamily\bfseries\textcolor{black}{P}}};\vspace*{0.2cm}\nopagebreak
+
+  \item Preface再一点说明\dotfill \hyperpage{7}
+  \item Preface动机\dotfill \hyperpage{5}
+  \item Preface序言\dotfill \hyperpage{5}
+  \item Prezto\dotfill \hyperpage{14}
+
+  \indexspace
+\vspace*{0.5cm}\nopagebreak
+\tikz\node at (0pt,0pt) [rounded corners=5pt,draw=ocre,fill=ocre!10,line width=1pt,inner sep=5pt]{\parbox{\linewidth-2\fboxsep-2\fboxrule-2pt}{\centering\large\sffamily\bfseries\textcolor{black}{T}}};\vspace*{0.2cm}\nopagebreak
+
+  \item TextWrangler\dotfill \hyperpage{21}
+  \item tmux\dotfill \hyperpage{11}
+  \item Tools in Linux\dotfill \hyperpage{11}
+
+  \indexspace
+\vspace*{0.5cm}\nopagebreak
+\tikz\node at (0pt,0pt) [rounded corners=5pt,draw=ocre,fill=ocre!10,line width=1pt,inner sep=5pt]{\parbox{\linewidth-2\fboxsep-2\fboxrule-2pt}{\centering\large\sffamily\bfseries\textcolor{black}{U}}};\vspace*{0.2cm}\nopagebreak
+
+  \item Ultisnip\dotfill \hyperpage{11}
+
+  \indexspace
+\vspace*{0.5cm}\nopagebreak
+\tikz\node at (0pt,0pt) [rounded corners=5pt,draw=ocre,fill=ocre!10,line width=1pt,inner sep=5pt]{\parbox{\linewidth-2\fboxsep-2\fboxrule-2pt}{\centering\large\sffamily\bfseries\textcolor{black}{V}}};\vspace*{0.2cm}\nopagebreak
+
+  \item Vim\dotfill \hyperpage{11}
+  \item Vim ag.vim插件\dotfill \hyperpage{11}
+  \item Vim Multiple-Cursors插件\dotfill \hyperpage{11}
+  \item Vim tmux插件\dotfill \hyperpage{11}
+  \item Vim ultisnip插件\dotfill \hyperpage{11}
+  \item Vim vim-latexsuite插件\dotfill \hyperpage{12}
+  \item Vim vimproc插件\dotfill \hyperpage{11}
+  \item Vim YouCompleteMe插件\dotfill \hyperpage{11}
+  \item vim-latexsuite\dotfill \hyperpage{12}
+  \item vimproc\dotfill \hyperpage{11}
+
+  \indexspace
+\vspace*{0.5cm}\nopagebreak
+\tikz\node at (0pt,0pt) [rounded corners=5pt,draw=ocre,fill=ocre!10,line width=1pt,inner sep=5pt]{\parbox{\linewidth-2\fboxsep-2\fboxrule-2pt}{\centering\large\sffamily\bfseries\textcolor{black}{W}}};\vspace*{0.2cm}\nopagebreak
+
+  \item windows OneDrive\dotfill \hyperpage{23}
+  \item windows 系统设置\dotfill \hyperpage{23}
+  \item Windows更多软件推荐\dotfill \hyperpage{23}
+  \item Windows系统\dotfill \hyperpage{23}
+
+  \indexspace
+\vspace*{0.5cm}\nopagebreak
+\tikz\node at (0pt,0pt) [rounded corners=5pt,draw=ocre,fill=ocre!10,line width=1pt,inner sep=5pt]{\parbox{\linewidth-2\fboxsep-2\fboxrule-2pt}{\centering\large\sffamily\bfseries\textcolor{black}{Y}}};\vspace*{0.2cm}\nopagebreak
+
+  \item YouCompleteMe\dotfill \hyperpage{11}
+
+\end{theindex}
